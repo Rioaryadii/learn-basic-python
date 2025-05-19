@@ -1,43 +1,42 @@
+# 💯 100 Days of Learning Python
 
-# 💯 100 Hari Belajar Python
+Welcome to the **100 Days of Learning Python** project!  
+This module is designed to help you learn Python from beginner to advanced level in 100 days.
 
-Selamat datang di proyek **100 Hari Belajar Python**!  
-Modul ini dirancang untuk membantu belajar Python dari dasar hingga mahir dalam waktu 100 hari.
+## 🚀 Goals
+- Build a daily coding habit  
+- Master Python from basics to advanced  
+- Create a portfolio with mini-projects and a final project  
+- Prepare for a job or freelance opportunities  
 
-## 🚀 Tujuan
-- Membangun kebiasaan coding setiap hari
-- Menguasai dasar hingga lanjutan Python
-- Membuat portofolio berupa mini-project dan final project
-- Menjadi bekal untuk masuk dunia kerja atau freelance
+## 🗂️ Module Structure
 
-## 🗂️ Struktur Modul
+### Week 1–2: Python Basics  
+- Day 1–7: Variables, input/output, loops, simple calculator  
 
-### Minggu 1–2: Dasar-dasar Python
-- Hari 1–7: Variabel, input/output, perulangan, kalkulator sederhana
+### Week 3–4: Data Structures  
+- Day 8–20: List, Tuple, Dictionary, String, Contact Mini Project  
 
-### Minggu 3–4: Struktur Data
-- Hari 8–20: List, Tuple, Dictionary, String, Mini Project Kontak
+### Week 5–6: Functions & Modularization  
+- Day 21–30: Functions, lambda, scope, Payment Program  
 
-### Minggu 5–6: Fungsi & Modularisasi
-- Hari 21–30: Fungsi, lambda, scope, Program Pembayaran
+### Week 7–8: File Handling & Errors  
+- Day 31–40: TXT/CSV files, Error Handling, Daily Journal  
 
-### Minggu 7–8: File & Error
-- Hari 31–40: File TXT, CSV, Error Handling, Catatan Harian
+### Week 9–10: OOP  
+- Day 41–50: Classes, Inheritance, Library System Project  
 
-### Minggu 9–10: OOP
-- Hari 41–50: Class, Inheritance, Project Sistem Perpustakaan
+### Week 11–12: Modules & Libraries  
+- Day 51–60: Python Modules, Requests, JSON, Weather API  
 
-### Minggu 11–12: Modul & Library
-- Hari 51–60: Modul Python, Requests, JSON, API Cuaca
+### Week 13–14: Web Development (Flask)  
+- Day 61–70: Basic Flask, Routing, Guest Book  
 
-### Minggu 13–14: Web (Flask)
-- Hari 61–70: Flask dasar, Routing, Buku Tamu
+### Week 15–16: GUI (Tkinter)  
+- Day 71–78: Tkinter, Widgets, To-Do List  
 
-### Minggu 15–16: GUI (Tkinter)
-- Hari 71–78: Tkinter, Widget, To-Do List
+### Week 17–18: Data Analysis  
+- Day 79–86: Pandas, Numpy, Matplotlib, CSV Analysis  
 
-### Minggu 17–18: Data Analysis
-- Hari 79–86: Pandas, Numpy, Matplotlib, Analisis CSV
-
-### Minggu 19–20: Final Project
-- Hari 87–100: Bangun proyek akhir dan unggah ke GitHub
+### Week 19–20: Final Project  
+- Day 87–100: Build a final project and upload it to GitHub
