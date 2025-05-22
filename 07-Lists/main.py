@@ -2,7 +2,7 @@
 #241011400059
 #02TPLE001
 
-#Day07 - Lists in Python
+#07 - Lists in Python
 
 def main():
     pets = ["cat", "dog", "bird"]
