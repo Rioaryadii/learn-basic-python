@@ -2,7 +2,7 @@
 #241011400059
 #02TPLE001
 
-#Day08 - Dictionaries in Python
+#08 - Dictionaries in Python
 
 def main():
     students = {
