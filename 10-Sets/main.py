@@ -2,7 +2,7 @@
 #241011400059
 #02TPLE001
 
-#Day10 - Sets
+#10 - Sets in Python
 
 def main():
     set1 = {1, 2, 3, 4, 5}
