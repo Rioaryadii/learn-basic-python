@@ -2,7 +2,8 @@
 #241011400059
 #02TPLE001
 
-#Day 06 - Functions in Python
+#06 - Functions in Python
+
 def greet(name):
     return f"Hello, {name}!"
 
