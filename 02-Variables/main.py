@@ -2,9 +2,7 @@
 #241011400059
 #02TPLE001
 
-#Day 02 - Variables & Data Types
-
-# Day 02 - Variables and Data Types
+#02 - Variables & Data Types
 
 def main():
     name = "Rio Fandia Aryadi"
