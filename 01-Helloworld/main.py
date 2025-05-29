@@ -2,7 +2,7 @@
 #241011400059
 #02TPLE001
 
-#Day 01 - Hello World
+#01 - Hello World
 
 def main():
     print("Hello, World!")

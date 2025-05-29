@@ -2,7 +2,7 @@
 #241011400059
 #02TPLE001
 
-#Day 04 - Conditionals
+#04 - Conditionals
 
 def main():
     score = int(input("Enter your score: "))

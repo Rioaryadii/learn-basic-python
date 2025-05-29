@@ -2,7 +2,7 @@
 #241011400059
 #02TPLE001
 
-#Day09 - Tuples in Python
+#09 - Tuples in Python
 
 def main():
     coordinates = (9.5, 10.9)

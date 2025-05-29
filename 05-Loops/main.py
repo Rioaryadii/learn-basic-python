@@ -2,7 +2,7 @@
 #241011400059
 #02TPLE001
 
-#Day 05 - Loops in Python
+#05 - Loops in Python
 
 def main():
     # For loop example
